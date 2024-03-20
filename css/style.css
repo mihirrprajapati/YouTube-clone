@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.search-bar {
+    width: 30em;
+    border-radius: 5em 0 0 5em;
+}
+
+.search-icon {
+    border-radius: 0 5em 5em 0;
+    /* border-color: #f2f4f6; */
+}
+
+/* video-area */
+
+.single-video-container {
+    width: 25em;
+    height: 20em;
+}
+
+.thumbnail {
+    width: inherit;
+    height: 15em;
+}
+
+.video-logo {
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+    background: blueviolet;
+}
+
+p{
+    margin-bottom: 0 !important;
+}
+
+.thumbnail img{
+    width: inherit;
+    height: inherit;
+}
+
+.title p{
+    line-height: 1.2em;
+}
