@@ -45,3 +45,47 @@ p{
 .title p{
     line-height: 1.2em;
 }
+
+/* videoplayer */
+
+.video{
+    width: 68vw;
+    height: 70vh;
+}
+
+.suggestion-video{
+    width: 28vw;
+    height: auto;
+}
+
+.suggestion-video-box{
+    margin-bottom: 1em;
+}
+
+.comment-section{
+    width: 70vw;
+    height: 70vh;
+    background: rgb(215, 237, 250);
+}
+
+.video-area{
+    width: 12.5em;
+    height: 7.5em;
+}
+
+.video-title{
+    width: 12em;
+    height: 5em;
+    font-weight: 600;
+}
+
+.video-channel{
+    width: 12em;
+    height: 3em;
+    font-size: 14px;
+}
+
+.video-area img{
+    width: 100%;
+    height: 100%;
+}
